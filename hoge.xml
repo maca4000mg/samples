@@ -1,0 +1,13 @@
+<root>
+    <a name="a1">
+        <b>bbb1</b>
+        <b>bbb2</b>
+        <b>bbb3</b>
+        <c>ccc1</c>
+    </a>
+    <a>
+        <b>bbb4</b>
+        <b>bbb5</b>
+    </a>
+    <a name="a3" price="100"></a>
+</root>
